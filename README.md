@@ -6,3 +6,4 @@
 * [JavaScript](RingZer0Team/JavaScript)
 * [SQL Injection](RingZer0Team/SQL-Injection)
 * [Web](RingZer0Team/Web)
+* [Steganography](RingZer0Team/Steganography)
