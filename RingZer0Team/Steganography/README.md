@@ -6,3 +6,4 @@
 * [Victor Reloaded](https://ringzer0team.com/challenges/71) [Solution](71.md)
 * [Look inside the house](https://ringzer0team.com/challenges/18) [Solution](18.md)
 * [TAPS team have recorded some ghost sound](https://ringzer0team.com/challenges/22) [Solution](22.md)
+* [Brainsick](https://ringzer0team.com/challenges/122) [Solution](122.md)
