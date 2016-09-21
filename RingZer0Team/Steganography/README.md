@@ -7,3 +7,4 @@
 * [Look inside the house](https://ringzer0team.com/challenges/18) [Solution](18.md)
 * [TAPS team have recorded some ghost sound](https://ringzer0team.com/challenges/22) [Solution](22.md)
 * [Brainsick](https://ringzer0team.com/challenges/122) [Solution](122.md)
+* [I'm Goronyo Babad Nigerian prince](https://ringzer0team.com/challenges/231) [Solution](231.md)
