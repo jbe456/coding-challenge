@@ -6,3 +6,4 @@
 * [Area 51](https://ringzer0team.com/challenges/48) [Solution](48.md)
 * [Looking for password file](https://ringzer0team.com/challenges/75) [Solution](75.md)
 * [Security thru obscurity!](https://ringzer0team.com/challenges/45) [Solution](45.md)
+* [Looking for the flag?](https://ringzer0team.com/challenges/76) [Solution](76.md)
