@@ -9,4 +9,5 @@
 * [6 The JOIN operation](https://sqlzoo.net/wiki/The_JOIN_operation) [Solution](The_JOIN_operation.md)
 * [7 More JOIN operations](https://sqlzoo.net/wiki/More_JOIN_operations) [Solution](More_JOIN_operations.md)
 * [8 Using Null](https://sqlzoo.net/wiki/Using_Null) [Solution](Using_Null.md)
+* [8+ Numeric Examples](https://sqlzoo.net/wiki/NSS_Tutorial) [Solution](Numeric_Examples.md)
 
