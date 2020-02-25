@@ -10,4 +10,5 @@
 * [7 More JOIN operations](https://sqlzoo.net/wiki/More_JOIN_operations) [Solution](More_JOIN_operations.md)
 * [8 Using Null](https://sqlzoo.net/wiki/Using_Null) [Solution](Using_Null.md)
 * [8+ Numeric Examples](https://sqlzoo.net/wiki/NSS_Tutorial) [Solution](Numeric_Examples.md)
+* [9- Window functions](https://sqlzoo.net/wiki/Window_functions) [Solution](Window_functions.md)
 
