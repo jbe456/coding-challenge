@@ -11,4 +11,5 @@
 * [8 Using Null](https://sqlzoo.net/wiki/Using_Null) [Solution](Using_Null.md)
 * [8+ Numeric Examples](https://sqlzoo.net/wiki/NSS_Tutorial) [Solution](Numeric_Examples.md)
 * [9- Window functions](https://sqlzoo.net/wiki/Window_functions) [Solution](Window_functions.md)
+* [9 Self join](https://sqlzoo.net/wiki/Self_join) [Solution](Self_join.md)
 
