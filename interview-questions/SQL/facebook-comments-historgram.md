@@ -26,7 +26,7 @@ Source: [Interview Query](https://www.interviewquery.com/)
 
 Write a SQL query to create a histogram of number of comments per user in the month of January 2019. Assume bin buckets class intervals of one.
 
-## Solution 1
+## Solution
 
 ```sql
 # MySql v5.7
@@ -93,23 +93,4 @@ WHERE  ( Month(created_at) = 1
          AND Year(created_at) = 2019 )
         OR created_at IS NULL
 GROUP  BY name;
-```
-
-## Solution 2
-
-As provided by [Interview Query](https://www.interviewquery.com/)
-
-```sql
-WITH hist AS (
-    SELECT users.id, COUNT(user_comments.user_id) AS comment_count
-    FROM users
-    LEFT JOIN user_comments
-        ON users.id = user_comments.user_id
-    WHERE created_at BETWEEN '2019-01-01' AND '2019-01-31'
-    GROUP BY 1
-)
-
-SELECT comment_count, COUNT(*) AS frequency
-FROM hist
-GROUP BY 1
 ```

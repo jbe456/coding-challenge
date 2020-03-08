@@ -1,1 +1,2 @@
 - [Postmates - weekly aggregation](postmates-weekly-aggregation.md)
+- [Affirm - rejection reasons](affirm-rejection-reasons.md)
